@@ -1,4 +1,4 @@
-// Arduino C++ code
+// C++ code
 //
 void setup()
 {
@@ -8,7 +8,7 @@ void setup()
 void loop()
 {
   digitalWrite(12,HIGH);
-  delay(1000); // Wait for 1000 milliseconds (1 second)
+  delay(1000); // Wait for 1000 millisecond(s)
   digitalWrite(12, LOW);
-  delay(1000); // Wait for 1000 milliseconds (1 second)
+  delay(1000); // Wait for 1000 millisecond(s)
 }
