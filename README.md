@@ -47,6 +47,8 @@ V = IR --> I = V/R --> I = 3 V / 220 Ohms = 0.0136 A = 13.6 mA
 
 Therefore, the current through the resistor is approximately 13.6 mA. Because the resistor and LED are connected in series, the same 13.6 mA of current flows through the LED. 
 
+CONCEPTS/TERMS DEFINED: 
+Ohm's
 
 
 
