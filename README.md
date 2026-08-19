@@ -29,7 +29,9 @@ Voltage is the difference in electric potential between two points. Voltage is c
 Resistance acts like friction for electricity. It impedes the flow of current in a circuit. Components known as resistors allow us to create resistance in a circuit. Resistance is measured in Ohm's. 
 
 
-FURTHER CIRCUIT ANALYSIS (done days later):
+
+
+---FURTHER CIRCUIT ANALYSIS--- (done days later):
 
 Concepts/Terms learned: Ohm's Law (V=IR), forward voltage, series circuit, voltage drop, LED anode, LED cathode 
 
