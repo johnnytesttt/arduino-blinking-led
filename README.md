@@ -48,7 +48,18 @@ V = IR --> I = V/R --> I = 3 V / 220 Ohms = 0.0136 A = 13.6 mA
 Therefore, the current through the resistor is approximately 13.6 mA. Because the resistor and LED are connected in series, the same 13.6 mA of current flows through the LED. 
 
 CONCEPTS/TERMS DEFINED: 
-Ohm's
+
+Ohm's Law -
+
+Forward Voltage (in an LED) - the amount of voltage a specific LED needs to emit light in a circuit
+
+Series Circuit - circuit with only one path for current to flow. all parts are connected in a single loop. 
+
+Voltage Drop - the reduction or "drop" in voltage that happens when current flows through a component like a resistor
+
+LED anode - the long lead, and positive terminal of an LED. it is the entry point for electric current, as current flows from the anode (+) to the cathode (-) in conventional current. 
+
+LED cathode - the short lead, and negative terminal of an LED. current exits from here out of the diode. 
 
 
 
