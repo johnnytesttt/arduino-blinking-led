@@ -49,7 +49,7 @@ Therefore, the current through the resistor is approximately 13.6 mA. Because th
 
 CONCEPTS/TERMS DEFINED: 
 
-Ohm's Law -
+Ohm's Law - Voltage is equal to current times resistance
 
 Forward Voltage (in an LED) - the amount of voltage a specific LED needs to emit light in a circuit
 
